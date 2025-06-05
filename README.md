@@ -1,12 +1,4 @@
-# Machine-Learning---Airbnb-Price-Prediction-
-
 # Airbnb Price Prediction
-
-## Overview
-Airbnb provides a platform for property owners to rent out their spaces to travelers. Pricing a listing effectively is critical for maximizing revenue while staying competitive in the market. For hosts, understanding what factors influence the price of their listings is essential. This project aims to build a machine learning model to predict the price of Airbnb listings based on various features such as property type, room type, location, amenities, and host characteristics. By analyzing these factors, this project provides actionable insights to Airbnb hosts to help optimize their listing prices.
-
-## Problem Statement
-The main objective of this project is to develop a regression model that can predict the price of an Airbnb listing. Using features like property type, number of reviews, location, and available amenities, the model aims to estimate the listing price with reasonable accuracy. The insights from this project can help Airbnb hosts understand what drives pricing, enabling them to make data-informed decisions. It can also help Airbnb improve its pricing recommendations to enhance user satisfaction on both ends.
 
 ## Dataset
 The dataset used in this project is Airbnb listing data, where the target variable is `log_price`.  
