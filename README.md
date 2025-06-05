@@ -14,6 +14,9 @@ Input variables include:
 - **Categorical features**: `property_type`, `room_type`, `city`, `bed_type`, etc.  
 - **Numerical features**: `number_of_bathrooms`, `number_of_bedrooms`, `number_of_beds`, `accommodates`, etc.
 
+🔗 [Airbnb Price Dataset](https://docs.google.com/spreadsheets/d/1N7P0euUjfjB8XXdTBQeicjGjxAOm18wvCRLaQC92a8g/edit?usp=sharing) 
+
+
 ## Approach
 
 1. **Data Import**  
